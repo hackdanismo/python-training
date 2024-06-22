@@ -8,3 +8,4 @@ Repository for code examples whilst learning Python
 + Building a `Bandname Generator` program
 + Primitive Data Types
 + Mathematical Operations & Operators
++ Building a `Tip Calculator`
