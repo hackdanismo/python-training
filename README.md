@@ -6,3 +6,5 @@ Repository for code examples whilst learning Python
 + The `input()` function
 + Variables
 + Building a `Bandname Generator` program
++ Primitive Data Types
++ Mathematical Operations & Operators
