@@ -10,3 +10,4 @@ Repository for code examples whilst learning Python
 + `Project 6` - Mathematical Operations & Operators
 + `Project 7` - Building a `Tip Calculator`
 + `Project 8` - Conditional Statements
++ `Project 9` - Building a `Pizza Ordering` program
