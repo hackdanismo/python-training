@@ -12,3 +12,4 @@ Repository for code examples whilst learning Python
 + `Project 8` - Conditional Statements
 + `Project 9` - Building a `Pizza Ordering` program
 + `Project 10` - Logical Operators
++ `Project 11` - Randomisation & Lists
