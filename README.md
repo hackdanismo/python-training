@@ -13,3 +13,5 @@ Repository for code examples whilst learning Python
 + `Project 9` - Building a `Pizza Ordering` program
 + `Project 10` - Logical Operators
 + `Project 11` - Randomisation & Lists
++ `Project 12` - Loops
++ `Project 13` - Building a `Password Generator`
