@@ -15,3 +15,4 @@ Repository for code examples whilst learning Python
 + `Project 11` - Randomisation & Lists
 + `Project 12` - Loops
 + `Project 13` - Building a `Password Generator`
++ `Project 14` - Functions
