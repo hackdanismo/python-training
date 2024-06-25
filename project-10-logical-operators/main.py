@@ -8,6 +8,13 @@ I can create multiple lines
 of a string
 ''')
 
+# Use the lower() function to set the value to be lowercase
+name = input("What is your name? ").lower()
+print(name)
+# Use the count() function to count how many times "d" is found in the name
+count_letters = name.count("d")
+print(count_letters)
+
 # a = 12
 # a > 10 and a < 13 (TRUE)
 
