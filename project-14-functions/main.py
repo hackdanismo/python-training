@@ -102,3 +102,32 @@ def format_name_update(f_name, l_name):
 
 
 print(format_name_update(input("What is your first name? "), input("What is your last name? ")))
+
+# Multi-line comments
+# Highlight the code or comment
+# Mac: cmd + /
+# Windows: ctrl + /
+
+# This is a multiline comment
+# added to my Python code
+# to demonstrate this
+
+# Docstrings - automated documentation for our functions and code blocks
+# Docstrings - """ """
+
+# Convert a String to Title case in Python
+def format_name_update_docstrings(f_name, l_name):
+    # This is a Docstring for automated documentation - can be over multiple lines
+    """Take a first and last name and format it 
+    to return the title case version of the name."""
+    # Check to see strings are not empty
+    if f_name == "" or l_name == "":
+        # Else/Terminate the function if the strings are empty to exit the function
+        return "You didn't provide valid inputs."
+    else:
+        formatted_f_name = f_name.title()  # Convert to Title case
+        formatted_l_name = l_name.title()  # Convert to Title case
+        return f"{formatted_f_name} {formatted_l_name}"
+
+
+print(format_name_update_docstrings(input("What is your first name? "), input("What is your last name? ")))
