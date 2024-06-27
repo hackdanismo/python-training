@@ -16,3 +16,4 @@ Repository for code examples whilst learning Python
 + `Project 12` - Loops
 + `Project 13` - Building a `Password Generator`
 + `Project 14` - Functions
++ `Project 15` - Object Oriented Programming (OOP)
